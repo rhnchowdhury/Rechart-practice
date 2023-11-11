@@ -49,7 +49,7 @@ const ChartCompose = () => {
     ];
     return (
         <div>
-            <h3>Simple Composed chart</h3>
+            <h3>Composed chart Show</h3>
             <div className='bar-chart'>
                 <ComposedChart width={730} height={250} data={data}>
                     <XAxis dataKey="name" />

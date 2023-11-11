@@ -42,7 +42,7 @@ const BarCharts = () => {
     ];
     return (
         <div>
-            <h3>Simple Bar chart</h3>
+            <h3>Bar chart Show</h3>
            <div className='bar-chart'>
            <BarChart width={730} height={250} data={data}>
                 <CartesianGrid strokeDasharray="3 3" />
