@@ -8,6 +8,7 @@ import FunellChart from './Components/FunellCharts/FunellChart';
 import PieCharts from './Components/PieCharts/PieCharts';
 import RadarCharts from './Components/RadarCharts/RadarCharts';
 import RadialChart from './Components/RadialChart/RadialChart';
+import ScatterCharts from './Components/ScatterCharts.js/ScatterCharts';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <RadarCharts></RadarCharts>
       <RadialChart></RadialChart>
       <FunellChart></FunellChart>
+      <ScatterCharts></ScatterCharts>
     </div>
   );
 }
