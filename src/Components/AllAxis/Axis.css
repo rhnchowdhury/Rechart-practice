@@ -1,0 +1,8 @@
+.axis-div{
+    margin-top: -90px;
+}
+.axis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }

@@ -48,6 +48,7 @@ const Chart = () => {
             amt: 2100
         }
     ];
+
     return (
         <div>
             <h3>Simple Line Chart</h3>
