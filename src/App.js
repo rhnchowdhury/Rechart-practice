@@ -9,6 +9,7 @@ import PieCharts from './Components/PieCharts/PieCharts';
 import RadarCharts from './Components/RadarCharts/RadarCharts';
 import RadialChart from './Components/RadialChart/RadialChart';
 import ScatterCharts from './Components/ScatterCharts.js/ScatterCharts';
+import TreeMaps from './Components/TreeMaps/TreeMaps';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       <RadialChart></RadialChart>
       <FunellChart></FunellChart>
       <ScatterCharts></ScatterCharts>
+      <TreeMaps></TreeMaps>
     </div>
   );
 }
