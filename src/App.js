@@ -1,7 +1,9 @@
 import './App.css';
 import Axis from './Components/AllAxis/Axis';
 import AxisTool from './Components/AllAxis/AxisTool';
+import BarCharts from './Components/BarChart/BarCharts';
 import Chart from './Components/Chart/Chart';
+import ChartCompose from './Components/ChartComposed/ChartCompose';
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
      <Chart></Chart>
      <Axis></Axis>
      <AxisTool></AxisTool>
+     <BarCharts></BarCharts>
+     <ChartCompose></ChartCompose>
     </div>
   );
 }

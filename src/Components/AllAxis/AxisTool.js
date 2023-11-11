@@ -41,7 +41,7 @@ const AxisTool = () => {
         }
     ];
     return (
-        <div className=''>
+        <div>
             <h3>Axis With Tooltip</h3>
             <div className='axis-tool'>
                 <LineChart width={600} height={400} data={data}>
