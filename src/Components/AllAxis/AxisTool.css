@@ -1,7 +1,4 @@
-.axis-div{
-    margin-top: -150px;
-}
-.axis{
+.axis-tool{
     display: flex;
     justify-content: center;
     align-items: center;
